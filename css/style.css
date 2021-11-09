@@ -38,9 +38,46 @@
 }
 
 .main-col-height {
-    height: 100px;
+    height: 200px;
 }
 
 .row-height-margin {
     height: 5em;
+}
+
+.margin {
+    margin: 0px 10px;
+
+}
+
+.margin-top {
+    margin-top: 5em;
+}
+
+.margin-main {
+    margin-top: 10px;
+}
+
+.margin-right {
+    margin-right: 5px;
+}
+
+.main-height2 {
+    height: 500px;
+}
+
+.footer-color {
+    background-color: #3A546D;
+}
+
+.footer-height {
+    height: 200px;
+}
+
+.subfooter-height {
+    height: 100px;
+}
+
+.subfooter-color {
+    background-color: #2C3E50;
 }
