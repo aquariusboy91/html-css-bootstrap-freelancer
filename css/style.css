@@ -12,7 +12,7 @@
 } 
 
 .jumbo-height {
-    height: 400px;
+    height: 500px;
 }
 
 .color-jumbo {
@@ -29,4 +29,18 @@
 
 .row-height {
     height: 3em;
+}
+
+.main-height {
+    height: 600px;
+    color: royalblue;
+
+}
+
+.main-col-height {
+    height: 100px;
+}
+
+.row-height-margin {
+    height: 5em;
 }
