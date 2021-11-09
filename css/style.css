@@ -3,6 +3,30 @@
     color: white;
 }
 
-.fluid-height {
+.header-height {
+    height: 3em;
+}
+
+.col-color {
+    background-color: red;
+} 
+
+.jumbo-height {
+    height: 400px;
+}
+
+.color-jumbo {
+    background-color: #1ABC9C;
+}
+
+.col-height {
+    height: 10em;
+}
+
+.img-height {
+    height: 300px;
+}
+
+.row-height {
     height: 3em;
 }
