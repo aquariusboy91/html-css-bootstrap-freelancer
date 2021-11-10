@@ -19,6 +19,17 @@
     background-color: #1ABC9C;
 }
 
+.line {
+    height: 3px;
+    width: 45%;
+    background-color: white;
+    display: inline-block;
+}
+
+.d_inline {
+    display: inline-block;
+}
+
 .col-height {
     height: 10em;
 }
