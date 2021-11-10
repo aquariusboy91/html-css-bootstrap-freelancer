@@ -45,46 +45,10 @@
     height: 170px;
 }
 
-.row-height {
-    height: 3em;
-}
-
 .btn_1 {
     background-color: #1ABC9C;
     border-color: white;
     color: white;
-}
-
-
-
-
-.main-col-height {
-    height: 200px;
-}
-
-.row-height-margin {
-    height: 5em;
-}
-
-.margin {
-    margin: 0px 10px;
-
-}
-
-.margin-top {
-    margin-top: 5em;
-}
-
-.margin-main {
-    margin-top: 10px;
-}
-
-.margin-right {
-    margin-right: 5px;
-}
-
-.main-height2 {
-    height: 500px;
 }
 
 .footer-color {
@@ -93,10 +57,6 @@
 
 .footer-height {
     height: 200px;
-}
-
-.subfooter-height {
-    height: 100px;
 }
 
 .subfooter-color {
