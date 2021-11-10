@@ -26,21 +26,17 @@
 .line {
     height: 3px;
     background-color: white;
-    width: 43%;
+    width: 25%;
 }
 
 .line-b {
     height: 3px;
     background-color: black;
-    width: 43%;
+    width: 25%;
 }
 
 .d_inline {
     display: inline-block;
-}
-
-.col-height {
-    height: 10em;
 }
 
 .img-height {
@@ -64,3 +60,4 @@
 .subfooter-color {
     background-color: #2C3E50;
 }
+
