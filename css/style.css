@@ -1,21 +1,21 @@
-.color-fluid {
-    background-color: #2C3E50;
-    color: white;
+
+.color-header {
+    background-color:#2C3E50 ;
 }
 
-.header-height {
-    height: 3em;
+.col-6 li:hover {
+    color: yellow;
+}
+
+.fs-7 {
+    font-size: 12px;
 }
 
 .col-color {
     background-color: red;
 } 
 
-.jumbo-height {
-    height: 500px;
-}
-
-.color-jumbo {
+.jumbo-color {
     background-color: #1ABC9C;
 }
 
